@@ -1,4 +1,5 @@
-*** Conceptual Metaphor and Graphical Convention Influence the Interpretation of Line Graphs***
+Conceptual Metaphor and Graphical Convention Influence the Interpretation of Line Graphs
+===
 
 The study explored how we make sense of graphs and found that our natural way of thinking, like believing "up" means more or better, really does affect how well we understand graphs.
 The researchers had a total of 600 people participate in their study to look at this.
