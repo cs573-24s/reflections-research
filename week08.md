@@ -60,14 +60,17 @@ are all very beautiful to look at and could make some really cool
 artwork as well.
 
 ![comparison of different techniques](./img/w8-1.png)
+<br />
 Comparison of Different Techniques
 <br />
 <br />
 <br />
 ![red-blue encoded visualization](./img/w8-2.png)
+<br />
 Red-Blue Encoded Visualization
 <br />
 <br />
 <br />
 ![DTI Fiber Tracts](./img/w8-3.png)
+<br />
 DTI Fiber Tracts Visualization
