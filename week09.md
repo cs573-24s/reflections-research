@@ -1,0 +1,9 @@
+This week, I analyzed a paper titled "How Data Analysts Use a Visualization Grammar in Practice", by Xiaoying Pu, and Matthew Kay.
+
+Firstly, what is a visualization grammar? It's a tool like ggplot2 in R or the Vega ecosystem in JavaScript. The paper explores how analysts actually use these visualization grammars during their own analyses. This research is intended to help improve grammar's to cater to the needs of analysts. 
+
+Six experienced analysts from TidyTuesday were analyzed for this project. The tool used for their analysis was R's ggplot. The analysts were examined through recording their process of creating visualizations, once without the knowledge of the study, and once with. They were then interviewed and combination of their recordings and interviews were used for analysis. The researchers recorded the edit logs of the analysts, and segmented these edits based on when a participant started a new analysis objective. They then conducted thorough review of all the processes and the findings are interesting.
+
+The needs for analytical tasks and customization directed their use of GoG components. However, often, even after specifying valid plots, participants would encounter silent errors, or errors that were hard to debug from simply the error message. They recognized both incrimental and experiemental iteration patterns. The authors also generalized this research to other grammars like Vega. 
+
+The main recommendations from this paper are to make the grammar more practical for analysts and maintain consistency between visualization and data wrangling specifications. Additionally, the need for customizability, more documentation etc are highlighted. They also suggest the use of notebooks, and modifications to the same to include more interactivity outside of simply coding that could help with visualization development. 
