@@ -13,4 +13,6 @@
         -  ![image](https://github.com/lomuaphe/reflections-research/assets/1378493/6e86da11-1949-4b50-b469-efafde06c315)
         -  I find intersting the tools they have in achievng the desired product. I am learning that using data manipulkation tools can be a good way to create beautiful visualizations 
 
-
+####        Conclusion
+-        I think thimpaper did intrododuce a new concept in DV to me which is using the clickstream data to the e-commerce in both ends, customer and product
+-    It also gae a gihlight on bug data management in terms and gave suggestions on how to handle large data sets. 
