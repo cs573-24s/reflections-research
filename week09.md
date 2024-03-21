@@ -1,0 +1,5 @@
+Link to paper: https://source.opennews.org/articles/what-i-learned-recreating-one-chart-using-24-tools/
+
+Reflection: The paper intends to create the same scatterplot(also known as a bubble chart) using 24 different data visualization tools. It compares these tools on a level playing field and map out her learnings. The infographic serves as a guide for choosing the right tool for data visualization tasks, with a clear comparison of what can be expected in terms of learning and flexibility for each category of tools. Some tools are better for data exploration (e.g., R, Python), while others excel at creating public visualizations (e.g., D3.js, Illustrator). Some tools require rebuilding the graph from scratch when data changes slightly, while others allow direct data manipulation within the tool itself. Tools that are easy to use may not offer as much flexibility, making them suitable for quick and straightforward chart creation. But more flexible tools usually take more time to study. 
+
+So, there’s no universal solution in data visualization; the right tool depends on your specific goals and context.
