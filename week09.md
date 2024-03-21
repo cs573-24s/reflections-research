@@ -9,5 +9,11 @@ This paper address this gap by starting with an explanation of benefits of data 
 Authors suggest that, beyond well-established data-to-visualization fit principles and guidelines, visualizations should also be evaluated agains other common metrics, such as efficiency, comprehension, memorability and engagement (I would also add "accessibility", after the presentation last week).
 They also list some questions to be answered in visual renderings in the first stage of research cycles (e.g. "Does the visual clearly depict bounds on data and phenomena to facilitate the identification of unexplored theoretical phenomena?").
 
+For example, a descriptive analysis to show three sets by graphing measures of centrality alone may oversimplify their distinctions. 
+On the other hand, showing all the available data simultaneously may provide a very different impression.
+Instead, visualizing statistical confidence regions for each subset shows both differences and similarities between sets.
+
+![image](https://github.com/OzgeAygul/reflections-research/assets/77694285/ae8a72cd-a9b1-467c-b676-33e50854dd40)
+
 
 Paper link:https://pubsonline.informs.org/doi/epdf/10.1287/ijds.2021.0005
