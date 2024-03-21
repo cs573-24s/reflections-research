@@ -11,4 +11,6 @@ Impact of User Knowledge: Users with limited understanding of LLMs are found to 
 
 Design Implications: Based on the findings, the study proposes design implications aimed at minimizing user dissatisfaction and enhancing the usability of chat-based LLMs. These implications likely focus on improving model comprehension, providing clearer user guidance, and facilitating more effective user coping strategies.
 
-In summary, the research contributes valuable insights into user dissatisfaction with chat-based LLMs, offering a nuanced understanding of the underlying issues and proposing practical solutions to enhance user satisfaction and overall usability.
+In summary, the research contributes valuable insights into user dissatisfaction with chat-based LLMs, offering a nuanced understanding 
+
+Link: https://arxiv.org/abs/2311.07434of the underlying issues and proposing practical solutions to enhance user satisfaction and overall usability.
