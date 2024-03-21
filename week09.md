@@ -1,8 +1,10 @@
 # Visual Analytics for Comparing the Impact of Outliers in `k-Means` and `k-Medoids` Algorithm
 
 Author: *Kanika, Kanchan Rani, Sangeeta, Preeti*
-Link: 
-https://ieeexplore.ieee.org/abstract/document/8701355
+
+Link: https://ieeexplore.ieee.org/abstract/document/8701355
+
+
 This paper compares the performance of clustering algorithms - `kMeans` and `kMedoids` - in the presence of outliers using the `iris` dataset. An interactive web application with visual analytics is developed to display the impact of outliers on these clustering algorithms. The application can be accessed through an internet browser using `Shiny`, providing better insight into the algorithms' performance.
 `kMeans` is sensitive to outliers, while `kMedoids` uses medoids, the most centrally located values in cluster, making it less affected by outliers.
 
