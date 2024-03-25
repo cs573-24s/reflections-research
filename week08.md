@@ -1,0 +1,9 @@
+[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9998319](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9998319)
+
+In Alyxander Burns et al.'s "From Invisible to Visible: Impacts of Metadata in Communicative Data Visualization", the authors explore how incorporating metadata impacts users' perceptions of understanding, transparency, and trustworthiness within a data visualization. The authors observed that visualizations can sometimes lack context, making them hard to decode or trust, and suggests that metadata (e.g., data source, instructions for decoding) could alleviate these issues. They conducted two experiments to further investigate these concepts.
+
+The first experiment explores the impact of types of metadata on user engagement with different chart types and topics. This study showed that metadata related to the visualization's encoding and data source was most valued for understanding and assessing a visualization's trustworthiness.
+
+The second experiment focuses on how metadata affects perceptions of transparency, trustworthiness, and persuasiveness, as well as information relevance and understanding. Visualizations with metadata were perceived as more thorough than those without but were similarly clear, accurate, complete, and relevant. Metadata did not significantly influence the accuracy of information extraction from visualizations, though it directed attention towards certain visualization aspects.
+
+While metadata can enhance the thoroughness and clarity of visualizations, it doesn't make them more relevant or improve user understanding in a straightforward manner. This study raises questions about the roles of metadata in enhancing the communicative effectiveness of visualizations and suggests areas for future research, such as investigating metadata's influence on more complex visualizations and exploring alternate ways to present metadata beyond textual descriptions.
