@@ -1,1 +1,7 @@
-https://arxiv.org/abs/2308.16353
+This week, I evaluated a paper titled "Metrics-Based Evaluation and Comparison of Visualization Notations" by Krutchen, McNutt, McGuffin which you can find at the following link: https://arxiv.org/abs/2308.16353.
+
+Last week, I analyzed visualization grammar, and was not very happy with the paper as I thought the outcomes were not prodcutive for the time and effort that went into the whole study. Hence, the professor asked me to analyze this paper which focuses on similar 'visualization notations'. A visualization notation is a recurring pattern of symbols used to author specifications of visualizations, from data transformation to visual mapping. So in simple words, it is essentially any code that is written for performing the tasks in the pipeline of creating a visualization. These 'symbols' are defined by visualization grammars, like Matplotlib, Vega, etc. 
+
+Through this study, they are using metrics-based approaches to evaluate visualization notations. This research shows how we can use metrics to understand and compare different ways of visualizing information. Notation designers can see if their designs are achieving what they want them to or meeting certain thresholds. However, there are limitations because these numbers might not fully represent how easy or intuitive a design is to use. 
+
+An overall trend that I'm noticing with research papers - although I understand they are meant to be academic, they use jargon to describe a very simple problem statement. I believe this makes their research inaccessible to people outside of the viz community. I think this paper in particular is guilty of doing the same.
